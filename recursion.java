@@ -12,6 +12,16 @@ public class recursion {
     }
 }
 
+// Write a recursive method that calculates the sum of all the elements in an
+// array.
+class sumArray {
+    
+
+    public static void main(String[] args) {
+        
+    }
+}
+
 // Write a recursive method that finds the maximum element in an array.
 
 // Write a recursive method that calculates the Fibonacci number at a given
